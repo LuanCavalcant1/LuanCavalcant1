@@ -1,7 +1,7 @@
-# Oi, eu sou Luan
+# Oi, eu sou Luan Cavalcanti
 
 -🔭 Desenvolvedor web full stack <br>
--🖥️ JavaScript, typeScript, ReactJs, Node.Js
+-🖥️ JavaScript, typeScript, ReactJs, Node.Js, NextJs
 <div align="center">
   <a href="https://github.com/luancavalcant1'">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luancavalcant1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=white"/>
